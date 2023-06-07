@@ -1,0 +1,39 @@
+
+body {
+    background-color: rgb(255, 255, 255);
+    margin-top: 5rem;
+    margin-bottom: 3rem;
+}
+#subHeader{
+    margin-top: 3rem;
+}
+#imageContainer {
+    text-align: center;
+    color: white;
+}
+
+.btn-dark {
+    border-radius: 0;
+}
+.card{
+    border-radius: 0;
+}
+
+#mediaText {
+    background-image: url(/images/valleyfarm.jpg);
+    background-position: 75%;
+}
+#listItems {
+    border-width: thick;
+}
+#row2 {
+    gap: 2rem;
+}
+#containerText {
+    border-bottom: 2px solid darkgray;
+
+}
+.navbar {
+    padding: 1rem;
+    font-size: large;
+}

@@ -1,0 +1,14 @@
+body {
+    margin-top: 6rem;
+    margin-bottom: 3rem;
+}
+
+.list-group-item {
+    color: grey;
+    border: none;
+    
+}
+.navbar {
+    padding: 1rem;
+    font-size: large;
+}
