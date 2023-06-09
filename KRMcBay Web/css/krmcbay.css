@@ -20,7 +20,7 @@ body {
 }
 
 #mediaText {
-    background-image: url(/images/valleyfarm.jpg);
+    background-image: url(../images/valleyfarm.jpg);
     background-position: 75%;
 }
 #listItems {
