@@ -4,11 +4,16 @@ body {
 }
 
 .list-group-item {
-    color: grey;
+    color: rgb(0, 0, 0);
     border: none;
+   
     
 }
 .navbar {
     padding: 1rem;
     font-size: large;
+}
+#map {
+    width: 70%;
+    height: auto;
 }
