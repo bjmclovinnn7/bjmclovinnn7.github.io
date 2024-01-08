@@ -1,9 +1,19 @@
-
 body {
-    margin-top: 6rem;
-    margin-bottom: 3rem;
+  margin-top: 6rem;
+  margin-bottom: 3rem;
 }
 .navbar {
-    padding: 1rem;
-    font-size: large;
+  padding: 1rem;
+  font-size: large;
+}
+a {
+  text-decoration: none; /* Remove underline */
+  color: #000000; /* Change link color to black */
+}
+
+/* Change color of visited links */
+
+/* Change color of hovered links */
+a:hover {
+  color: #0400ff; /* Change color for hovered links */
 }
